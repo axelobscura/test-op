@@ -3,7 +3,7 @@
 }
 
 .main {
-  min-height: 100vh;
+  min-height: 90vh;
   padding: 4rem 0;
   flex: 1;
   display: flex;
@@ -26,6 +26,11 @@
   justify-content: center;
   align-items: center;
   flex-grow: 1;
+}
+
+.footer p {
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .title a {
