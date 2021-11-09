@@ -1,4 +1,4 @@
-## Getting Started
+## Coding Challenge
 
 First, run the development server:
 
